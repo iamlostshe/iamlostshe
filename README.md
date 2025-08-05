@@ -7,8 +7,7 @@
 <details>
   <summary>
     <code>Python</code> (нажми, чтобы увидеть библиотеки)
-  </summary> 
-  
+  </summary>
   - WEB и API: <code>Flask</code>, <code>fastapi</code>.
   - Парсинг: <code>requests</code>, <code>aiohttp</code>, <code>selenium</code>, <code>curl_cffi</code>, <code>lxml</code>.
   - Боты: <code>aiohttp</code>, <code>vkbottle</code>.
@@ -55,6 +54,11 @@
       <td><a href="https://github.com/iamlostshe/bars-api">bars-api</a></td>
       <td>Библиотека для парсинга школьного дневника</td>
       <td>Python (aiohttp, fake-useragent)</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/iamlostshe/mail-tm">mail-tm</a></td>
+      <td>[Участие в разработке] Библиотека для использования временной электронной почты.</td>
+      <td>Python (aiohttp)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/iamlostshe/conversations-about-important-api">conversations-about-important-api</a></td>
