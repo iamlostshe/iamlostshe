@@ -11,7 +11,7 @@
   - WEB и API: <code>Flask</code>, <code>fastapi</code>.
   - Парсинг: <code>requests</code>, <code>aiohttp</code>, <code>selenium</code>, <code>curl_cffi</code>, <code>lxml</code>.
   - Боты: <code>aiohttp</code>, <code>vkbottle</code>.
-  - Другое: <code>openai</code>, <code>loguru</code>, <code>pydantic-settings</code>, <code>matplotlib</code>, <code>gradio</code>, <code>flet</code>, <code>pillow</code>.
+  - Другое: <code>openai</code>, <code>loguru</code>, <code>pydantic-settings</code>, <code>matplotlib</code>, <code>gradio</code>, <code>flet</code>, <code>pillow</code>, <code>aiosmtpd</code>.
 </details>
 
 - `Python`-инструменты: `ruff`, `mypy`.
@@ -59,6 +59,11 @@
       <td><a href="https://github.com/iamlostshe/mail-tm">mail-tm</a></td>
       <td>[Участие в разработке] Библиотека для использования временной электронной почты.</td>
       <td>Python (aiohttp)</td>
+    </tr>
+	<tr>
+      <td><a href="https://github.com/iamlostshe/inboxium">inboxium</a></td>
+      <td>[Участие в разработке] Элегантаная, асинхронная и простая библиотека для приёма электронных писем.</td>
+      <td>Python (aiosmtpd, loguru)</td>
     </tr>
     <tr>
       <td><a href="https://github.com/iamlostshe/conversations-about-important-api">conversations-about-important-api</a></td>
