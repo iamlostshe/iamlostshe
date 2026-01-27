@@ -1,6 +1,6 @@
-## 👨‍💻 Привет, меня зовут Иван.
+<img align="center" alt="https://t.me/iamlostshe" src="https://github.com/user-attachments/assets/8cfaa18a-dbb3-4203-8c56-7944d462fb92" />
 
-У меня есть опыт в разработке Telegram и VK ботов/мини приложений, сайтов (backend, frontend).
+У меня есть опыт в разработке Telegram и VK ботов/мини приложений, сайтов (backend, frontend) и многого другого.
 
 ### 💻 `Стек` (`stack`)
 
@@ -25,10 +25,6 @@
 
 - Готов рассмотреть вакансию на "постоянку".
 - Готов выполнить ваш заказ (фриланс).
-
-### ✉️ Контакты
-
-[`Telegram`](https://t.me/iamlostshe): https://t.me/iamlostshe
 
 ### 🖥 Проекты
 
