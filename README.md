@@ -1,25 +1,18 @@
 <img align="center" alt="https://t.me/iamlostshe" src="https://github.com/user-attachments/assets/8cfaa18a-dbb3-4203-8c56-7944d462fb92" />
 
-У меня есть опыт в разработке Telegram и VK ботов/мини приложений, сайтов (backend, frontend) и многого другого.
-
 ### 💻 `Стек` (`stack`)
 
-<details>
-  <summary>
-    <code>Python</code> (нажми, чтобы увидеть библиотеки)
-  </summary>
-  - WEB и API: <code>Flask</code>, <code>fastapi</code>.
-  - Парсинг: <code>requests</code>, <code>aiohttp</code>, <code>selenium</code>, <code>curl_cffi</code>, <code>lxml</code>.
-  - Боты: <code>aiohttp</code>, <code>vkbottle</code>.
-  - Другое: <code>openai</code>, <code>loguru</code>, <code>pydantic-settings</code>, <code>matplotlib</code>, <code>gradio</code>, <code>flet</code>, <code>pillow</code>, <code>aiosmtpd</code>.
-</details>
+#### Python-библиотеки:
 
-- `Python`-инструменты: `ruff`, `mypy`.
-- `Vue`
-- `JavaScript`
-- `CSS`
-- `HTML`
-- `Markdown`
+| Направление | Python-библиотеки |
+| - | - |
+| WEB и API                  | `Flask`, `fastapi`                                                                            |
+| Парсинг                    | `requests`, `aiohttp`, `selenium`, `curl_cffi`, `lxml`                                        |
+| Боты                       | `aiohttp`, `vkbottle`                                                                         |
+| Другое                     | `openai`, `loguru`, `pydantic-settings`, `matplotlib`, `gradio`, `flet`, `pillow`, `aiosmtpd` |
+| Дополнительные-инструменты | `ruff`, `mypy`                                                                                |
+
+#### Веб-технологии `Vue`, `React`, `JavaScript`, `CSS`, `HTML`, `Markdown`.
 
 ### 💵 Буду рад рассмотреть коммерческое предложение
 
