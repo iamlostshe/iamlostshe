@@ -1,4 +1,4 @@
-<img align="center" alt="https://t.me/iamlostshe" src="https://github.com/user-attachments/assets/8cfaa18a-dbb3-4203-8c56-7944d462fb92" />
+<img align="center" alt="https://t.me/iamlostshe" src="https://github.com/user-attachments/assets/3528a261-b1a5-4401-ac24-4fbcea444719" />
 
 ### 💻 `Стек` (`stack`)
 
